@@ -1,1 +1,93 @@
-# Vin-cius-Gon-alves
+<!-- Banner superior animado com gradiente azul-roxo VIBRANTE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=&fontSize=40&fontColor=ffffff&animation=fadeIn&gradient=0,3B00FF,8A2BE2,DA00FF" />
+</p>
+
+<!-- Nome com efeito typing em cores NEON alternadas -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&weight=700&pause=1000&color=00FFFF,FF00FF,00FF00&center=true&vCenter=true&width=450&repeat=true&lines=Vin%C3%ADcius%20Gon%C3%A7alves" />
+</p>
+
+<!-- Frase com efeito typing em cores FLUORESCENTES -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&weight=700&pause=1000&color=FF0000,FFFF00,00FF00,00FFFF,FF00FF&center=true&vCenter=true&width=500&repeat=true&lines=Developer+in+development" />
+</p>
+
+<!-- Rodapé animado com gradiente azul-roxo INTENSO -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&gradient=0,3B00FF,8A2BE2,DA00FF"/>
+</p>
+
+
+
+---
+
+## 👨‍💻 Sobre mim
+
+Olá! Eu sou **Vinícius Gonçalves**, tenho 23 anos e sou estudante de **Sistemas de Informação** na **Horus Faculdades** (Pinhalzinho-SC).  
+Atualmente, estou focado no desenvolvimento backend com **Java** e suas principais ferramentas do ecossistema moderno.
+
+Busco sempre aprender novas tecnologias e desenvolver soluções que possam ser úteis de verdade.  
+Sou determinado, curioso e estou trilhando minha jornada rumo à carreira como desenvolvedor profissional.
+
+---
+
+### 🚀 Habilidades e Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,maven,git,github" />
+</p>
+
+---
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  ![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusgoncalves&show_icons=true&theme=tokyonight&hide=stars)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusgoncalves&layout=compact&theme=tokyonight)](https://github.com/viniciusgoncalves)
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=viniciusgoncalves&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 Conquistas
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=viniciusgoncalves&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+## 🌐 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-gon%C3%A7alves-167884301/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/ViniciusGoncaIves" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+<!-- Rodapé final com gradiente energético e mensagem impactante -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=Obrigado+pela+visita!✨&fontSize=24&fontColor=ffffff&animation=fadeIn&gradient=DA00FF,8A2BE2,3B00FF&desc=Let's+code+the+future+together&descSize=16&descAlignY=70"/>
+</p>
+
+<!-- Assinatura com efeito de máquina de escrever -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Vinícius+Gonçalves+©+2024;Keep+coding+keep+innovating🚀" />
+</p>
+
+<!-- Divisor animado -->
+<img src="https://github.com/viniciusgoncalves/viniciusgoncalves/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" style="width: 100%">
+
+<!-- Ícones flutuantes -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=viniciusgoncalves&label=Profile+Views&color=DA00FF&style=flat" alt="profile views" /> 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=viniciusgoncalves.viniciusgoncalves&color=8A2BE2" alt="visitors"/>
+</div>
