@@ -75,6 +75,6 @@ Sou determinado, curioso e estou trilhando minha jornada rumo à carreira como d
 <!-- Rodapé minimalista com toque neon -->
 <p align="center">
   <a href="https://github.com/viniciusgoncalves">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:3B00FF,100:DA00FF&height=80&section=footer&text=Obrigado+pela+visita+&fontSize=18&animation=twinkling" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:3B00FF,100:DA00FF&height=80&section=footer&text=Obrigado+pela+visita!+☕&fontSize=18&animation=twinkling&desc=✨+Code+is+life+🚀&descSize=14&descAlignY=75" />
   </a>
 </p>
