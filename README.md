@@ -33,6 +33,11 @@ Sou determinado, curioso e estou trilhando minha jornada rumo à carreira como d
 
 ### 🚀 Estudando
 
+- Java
+- Spring
+- PostgreSQL
+- Docker
+- Maven
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,maven" />
 </p>
