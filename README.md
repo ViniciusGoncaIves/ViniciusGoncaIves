@@ -34,7 +34,7 @@ Sou determinado, curioso e estou trilhando minha jornada rumo à carreira como d
 ### 🚀 Estudando
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,maven,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,maven" />
 </p>
 
 ---
