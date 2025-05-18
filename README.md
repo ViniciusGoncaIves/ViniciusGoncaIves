@@ -12,7 +12,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&weight=700&pause=1000&color=FF0000,FFFF00,00FF00,00FFFF,FF00FF&center=true&vCenter=true&width=500&repeat=true&lines=Developer+in+development" />
 </p>
-
 <!-- Rodapé animado com gradiente azul-roxo INTENSO -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&gradient=0,3B00FF,8A2BE2,DA00FF"/>
@@ -46,7 +45,7 @@ Sou determinado, curioso e estou trilhando minha jornada rumo à carreira como d
 <div align="center">
 
   ![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusGoncaIves&show_icons=true&theme=tokyonight&hide=stars)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGoncaIves&layout=compact&theme=tokyonight)](https://github.com/viniciusgoncalves)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGoncaIves&layout=compact&theme=tokyonight)](https://github.com/ViniciusGoncaIves)
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=ViniciusGoncaIves&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
