@@ -32,7 +32,7 @@ Sou determinado, curioso e estou trilhando minha jornada rumo à carreira como d
 
 ---
 
-### 🚀 Habilidades e Tecnologias
+### 🚀 Estudando
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,maven,git,github" />
@@ -78,16 +78,9 @@ Sou determinado, curioso e estou trilhando minha jornada rumo à carreira como d
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=Obrigado+pela+visita!✨&fontSize=24&fontColor=ffffff&animation=fadeIn&gradient=DA00FF,8A2BE2,3B00FF&desc=Let's+code+the+future+together&descSize=16&descAlignY=70"/>
 </p>
 
-<!-- Assinatura com efeito de máquina de escrever -->
+<!-- Rodapé minimalista com toque neon -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Vinícius+Gonçalves+©+2024;Keep+coding+keep+innovating🚀" />
+  <a href="https://github.com/viniciusgoncalves">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:3B00FF,100:DA00FF&height=80&section=footer&text=Made+with+⚡+and+%E2%9D%A4%EF%B8%8F&fontSize=18&animation=twinkling" />
+  </a>
 </p>
-
-<!-- Divisor animado -->
-<img src="https://github.com/viniciusgoncalves/viniciusgoncalves/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" style="width: 100%">
-
-<!-- Ícones flutuantes -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=viniciusgoncalves&label=Profile+Views&color=DA00FF&style=flat" alt="profile views" /> 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=viniciusgoncalves.viniciusgoncalves&color=8A2BE2" alt="visitors"/>
-</div>
