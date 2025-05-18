@@ -68,7 +68,6 @@ Sou determinado, curioso e estou trilhando minha jornada rumo à carreira como d
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://github.com/ViniciusGoncaIves" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github">
   </a>
 </p>
 
