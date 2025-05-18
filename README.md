@@ -45,10 +45,10 @@ Sou determinado, curioso e estou trilhando minha jornada rumo à carreira como d
 
 <div align="center">
 
-  ![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusgoncalves&show_icons=true&theme=tokyonight&hide=stars)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusgoncalves&layout=compact&theme=tokyonight)](https://github.com/viniciusgoncalves)
+  ![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusGoncaIves&show_icons=true&theme=tokyonight&hide=stars)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGoncaIves&layout=compact&theme=tokyonight)](https://github.com/viniciusgoncalves)
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=viniciusgoncalves&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=ViniciusGoncaIves&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
@@ -57,7 +57,7 @@ Sou determinado, curioso e estou trilhando minha jornada rumo à carreira como d
 ## 🏆 Conquistas
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=viniciusgoncalves&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ViniciusGoncaIves&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
