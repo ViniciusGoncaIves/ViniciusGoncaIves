@@ -73,14 +73,10 @@ Sou determinado, curioso e estou trilhando minha jornada rumo à carreira como d
   </a>
 </p>
 
-<!-- Rodapé final com gradiente energético e mensagem impactante -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=Obrigado+pela+visita!✨&fontSize=24&fontColor=ffffff&animation=fadeIn&gradient=DA00FF,8A2BE2,3B00FF&desc=Let's+code+the+future+together&descSize=16&descAlignY=70"/>
-</p>
 
 <!-- Rodapé minimalista com toque neon -->
 <p align="center">
   <a href="https://github.com/viniciusgoncalves">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:3B00FF,100:DA00FF&height=80&section=footer&text=Made+with+⚡+and+%E2%9D%A4%EF%B8%8F&fontSize=18&animation=twinkling" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:3B00FF,100:DA00FF&height=80&section=footer&text=Obrigado+pela+visita+&fontSize=18&animation=twinkling" />
   </a>
 </p>
