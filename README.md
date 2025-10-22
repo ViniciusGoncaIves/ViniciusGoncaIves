@@ -23,7 +23,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá! Eu sou **Vinícius Gonçalves**, tenho 23 anos e sou estudante de **Sistemas de Informação** na **Horus Faculdades** (Pinhalzinho-SC).  
+Olá! Eu sou **Vinícius Gonçalves**, tenho 24 anos e sou estudante de **Sistemas de Informação** na **Horus Faculdades** (Pinhalzinho-SC).  
 Atualmente, estou focado no desenvolvimento backend com **Java** e suas principais ferramentas do ecossistema moderno.
 
 Busco sempre aprender novas tecnologias e desenvolver soluções que possam ser úteis de verdade.  
